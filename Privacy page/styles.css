@@ -1,0 +1,38 @@
+/* styles.css */
+
+/* Styles for heading elements */
+h1 {
+    color: #333;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    color: #555;
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  /* Styles for paragraph elements */
+  p {
+    color: #666;
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  
+  /* Styles for unordered list */
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  /* Style for links */
+  a {
+    color: #0088cc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  

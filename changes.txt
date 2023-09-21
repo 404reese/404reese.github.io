@@ -1,0 +1,4 @@
+- photo grid
+- contact me button
+- link privacy pages
+- optimize privacy page
